@@ -1,0 +1,5 @@
+node_modules/
+devcamper_theme/
+config/config.env
+.history/
+_data/
